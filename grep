@@ -1,0 +1,7 @@
+Grep - Search for an expression, eg. a string
+
+Grep example; grep word file
+This will search for 'word' in 'file'. 
+
+More examples; find ~ -name "*.txt" -print | grep hello
+This will search in the home directory for txt files and display only the ones that contain the word 'hello'.
