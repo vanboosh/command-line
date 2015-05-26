@@ -1,4 +1,4 @@
-MV - Move or rename a file. 
+MV - Move or rename. 
 
 Move example; MV file ../file
 This will move the file named 'file' and move it to the directory above.
