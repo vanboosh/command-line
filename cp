@@ -1,4 +1,4 @@
-CP - Copy
+cp - Copy
 
-Copy example; CP file newFile
+Copy example; cp file newFile
 This will copy the file named 'file' and name it newFile
