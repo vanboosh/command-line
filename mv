@@ -1,7 +1,7 @@
-MV - Move or rename. 
+mv - Move or rename. 
 
-Move example; MV file ../file
+Move example; mv file ../file
 This will move the file named 'file' and move it to the directory above.
 
-Rename example; MV file newFile
+Rename example; mv file newFile
 This will keep 'file' in the current directory but rename it to 'newFile'.
