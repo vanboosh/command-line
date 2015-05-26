@@ -1,4 +1,5 @@
-wc - Will display a word count. You can display Lines/Words/Characters
+wc - Will display a word count. You can display Lines/Words/Characters using -l -w -c
 
 Wc example; 
 find ~ -name "*.txt" -print | grep hello | wc -l
+This will search in the home directory for txt files but only display the number of ones that contain the word 'hello'.
